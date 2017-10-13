@@ -1,0 +1,15 @@
+body{
+    background: radial-gradient(at top, #FEFFFF, #000);
+	text-shadow: #fff 0 0 10px,#fff 0 0 20px,#fff 0 0 30px;
+}
+
+a{
+	text-decoration: none;
+	font-family: monospace;
+	color: #000;
+}
+
+a:hover{
+	color: gray;
+}
+

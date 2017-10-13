@@ -1,0 +1,1 @@
+a:2:{s:11:"banner_link";s:32:"https://playoverwatch.com/ru-ru/";s:14:"banner_picture";s:196:"https://d3hmvhl7ru3t12.cloudfront.net/img/logos/overwatch-share-3d5a268515283007bdf3452e877adac466d579f4b44abbd05aa0a98aba582eeaebc4541f1154e57ec5a43693345bebda953381a7b75b58adbd29d3f3eb439ad2.jpg";}
